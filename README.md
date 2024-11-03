@@ -1,6 +1,6 @@
 # Databricks-Hackathon
 This is project for Databricks Gen AI Hackathon using Mosaic AI Agentic Framework and Unity Catalogue
-Problem statement ?
+Problem statement : 
 Procurement involves a wide range of activities, including choosing suppliers, negotiating terms, ordering, receiving, and inspecting goods, and paying invoices, to name a few. And every stage holds an array of challenges and uncertainties, kind of like walking blindfolded on a tightrope.
 
 In order to streamline the procurement and gain more visibility into this process, the available data to be consolidated, analyzed, and value extracted to make informed decisions. Measures to be taken to restrict unwanted spending by adopting spend analytics to analyze financial / spend / invoice data and monitoring trends by integrating real-time or cadence-based data feeding.
