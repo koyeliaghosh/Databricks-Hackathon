@@ -1,0 +1,5 @@
+llm_endpoint: "databricks-meta-llama-3-1-70b-instruct"
+warehouse_id: "4cc83e145c4add93"
+uc_functions:
+  []
+agent_prompt: "You are a retrieval agent who retrieves the information from endpoint= 'spentinsights' and index='spentinsightsvectorsearchindex'"
